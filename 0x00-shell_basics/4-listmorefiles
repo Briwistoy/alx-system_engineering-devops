@@ -1,1 +1,2 @@
-#!/bin/bash 'is -al'
+#!/bin/bash
+'is -al'
