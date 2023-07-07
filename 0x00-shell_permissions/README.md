@@ -1,0 +1,1 @@
+each scripts gives permissions
